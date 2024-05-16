@@ -812,6 +812,7 @@ footer p {
         
         margin-left: auto;
         margin-right: auto;
+        max-width: 100%;
     }
     .card{
         margin-right: auto;
@@ -854,7 +855,42 @@ footer p {
         font-size: 15px;
     }
 
-  
+    .img-gal{
+        width: 300px;
+        height: 200px;
+        padding: auto;
+        padding-left: 23px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .img-gal5{
+        width: 300px;
+        height: 200px;
+        padding: auto;
+        padding-left: 23px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .img-gal1{
+        width: 300px;
+        height: 200px;
+        padding: auto;
+        padding-left: 23px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .img-gal2{
+        width: 300px;
+        height: 200px;
+        padding: auto;
+        padding-left: 23px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .galery-content{
+        padding: auto;
+    }
 }
 
 @media (max-width: 376px) {
@@ -890,6 +926,7 @@ footer p {
         font-size: 15px;
     }
 
+    
     
 
   
